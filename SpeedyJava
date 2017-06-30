@@ -1,0 +1,15 @@
+# How to have Speedy Java JMV
+Basically how to run your JVM 
+
+## Choice of JVM
+* Linux JVM
+* Oracle Server JRE
+* JRocket JVM
+
+## Tuning JVM on Windows
+* Just do not do it!
+
+## Tunning JVM on Linux Ubuntu
+* /etc/
+
+## Tunning JVM on Open Solaris
